@@ -1,0 +1,2 @@
+Create a release based workflow following the repository instructions on the GitHub page:
+https://github.com/skills/release-based-workflow
